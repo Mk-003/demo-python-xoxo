@@ -69,4 +69,5 @@ if __name__ == "__main__":
 
   
 
-    print('Seeded database with fake data.')
+print('Seeded database with fake data.')
+print('haha')
